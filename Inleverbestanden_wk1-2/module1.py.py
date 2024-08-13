@@ -1,16 +1,11 @@
 # Oefeningen met Python Module 1
-# Jochem Kemp
 # 04-09-2015
 
 #Printen
 # tekens tussen de aanhalingstekens worden direct geprint indien er print voor staat
 print"hallo, wereld!"
 print"Hee, hallo daar."
-print"Zo tikt het lekker door."
-print"grappig"
-print'hee, print dit nog?'
-print"Ivo's computer doet het vandaag niet."
-print'Hij zei:"Hallo."'
+
 # programma rekent automatisch rekensommen uit tenzij het tussen aanhalingtekens wordt gezet
 print 1
 print 1
@@ -20,6 +15,7 @@ print 3+2
 print 8
 print 5+8+8-8
 print"5+8+8-8"
+
 # sommen uitrekenen binnen aanhalingstekens kan mbv de volgende verwijzingstekens
 print"Het 1e getal van Fibonacci is %d"%1
 print"Het 2e getal van Fibonacci is %d" % 1
